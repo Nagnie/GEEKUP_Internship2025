@@ -36,3 +36,15 @@ This is the frontend application for the **PRODUCT FRONTENDTECHNICAL ASSESSMENT 
 ---
 
 ## Screenshots
+
+### Album Table
+![albumTable](public/albumTable.png)
+
+### Album Detail
+![albumDetail](public/albumDetail.png)
+
+### User Table
+![userTable](public/userTable.png)
+
+### User Detail
+![userDetail](public/userDetail.png)
