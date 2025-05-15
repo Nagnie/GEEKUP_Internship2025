@@ -2,6 +2,8 @@
 
 This is the frontend application for the **PRODUCT FRONTENDTECHNICAL ASSESSMENT - GEEK UP INTERNSHIP 2025**.
 
+You can check out the live demo here: [https://geekup-internship2025.vercel.app/](https://geekup-internship2025.vercel.app/)
+
 ---
 
 ## Tech Stack & Libraries Used
